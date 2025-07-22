@@ -8,13 +8,13 @@ Before diving into analytics, I worked in finance, operations, and e-commerce �
 
 ## 💼 Key Projects
 
-| Tool        | Project                                                                 | Focus                                                                 |
-|-------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| **SQL**     | [E-Commerce Funnel & Retention Analysis](https://github.com/uriellopez1251/ecommerce-funnel-retention-sql) | Tracked funnel performance and analyzed user retention behavior       |
-| **Excel**   | [Airbnb Investment Strategy](https://github.com/uriellopez1251/airbnb-investment-excel) | Evaluated NYC rental data to guide property investment decisions     |
-| **Power BI**| [Shopify App Market Analysis](https://github.com/uriellopez1251/shopify-app-powerbi) | Analyzed Shopify app listings and developer insights                 |
-| **Tableau** | [Superstore Profitability Dashboard](https://github.com/uriellopez1251/Superstore-return-analysis) | Built executive dashboards to highlight profitability trends          |
-| **Storytelling** | [Customer Return Behavior](https://github.com/uriellopez1251/superstore-return-tableau) | Helped stakeholders understand root causes and reduce return rates    |
+| Tool        | Project                                                                                         | Focus                                                                 |
+|-------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **SQL**     | [Startup Trends Analysis](https://github.com/uriellopez1251/SQL_Startup_Trends_Analysis)        | Analyzed startup performance and funding trends using Crunchbase data |
+| **Excel**   | [NYC Airbnb Investment Analysis](https://github.com/uriellopez1251/Excel_Airbnb_Investment_Model)| Evaluated Manhattan rental data to guide property investments          |
+| **Power BI**| [Shopify Sales Analysis](https://github.com/uriellopez1251/shopify-powerbi-dax-analysis)        | Explored sales performance using DAX, KPI dashboards, and user trends |
+| **Tableau** | [Superstore Profitability Dashboard](https://github.com/uriellopez1251/superstore-profitability-analysis) | Improved operations and customer experience at a retail chain         |
+| **Power BI**| [Baseball Team Performance Analytics](https://github.com/uriellopez1251/Baseball-Team-Performance-Analytics) | Analyzed team and player metrics to identify patterns and key performers |
 
 ---
 
@@ -40,16 +40,20 @@ These experiences shaped how I analyze and interpret business data — always wi
 
 ## 📊 Skills & Tools
 
-**Analytics Tools:**
-- SQL (PostgreSQL, MySQL), Excel (Power Query, PivotTables), Tableau, Power BI, Google Sheets, R (basic)
+**Analytics Tools:**  
+- SQL (PostgreSQL, MySQL)  
+- Excel (Power Query, PivotTables, Financial Modeling)  
+- Tableau, Power BI, Google Sheets  
+- R (basic)
 
-**Business Concepts:**
-- Revenue, Profit Margin, CAC/LTV, ROI, Churn, Retention, Funnel Analysis, Cohort Tracking
+**Business Concepts:**  
+- Revenue, Profit Margin, CAC/LTV, ROI  
+- Churn, Retention, Funnel Analysis, Cohort Tracking
 
-**Data Storytelling:**
+**Data Storytelling:**  
 - Dashboards, executive summaries, stakeholder-ready visualizations
 
-**Certifications:**
+**Certifications:**  
 - TripleTen Business Intelligence Bootcamp  
 - Google Data Analytics Certificate  
 
@@ -59,14 +63,14 @@ These experiences shaped how I analyze and interpret business data — always wi
 
 - 📍 Based in California, open to remote/hybrid roles  
 - 📧 [uriellopez1251@gmail.com](mailto:uriellopez1251@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/uriellopez1251/)  
-- 🐙 [GitHub](https://github.com/uriellopez1251)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/uriellopez1251/)
 
 ---
 
 ## 🎸 Fun Fact
 
-I'm a proud Star Wars fan and a dog dad to two pups named Obi and Chewy. When I’m not diving into data or creating dashboards, I enjoy playing guitar, exploring new cultures, and going on outdoor adventures with my family.
+I'm a huge Star Wars fan, a dog lover with two pups named Obi and Chewy, and I enjoy hiking, running, and playing guitar during my downtime.
+
 
 
 > Currently open to BI Analyst and Data Analyst roles — especially in marketing, e-commerce, tech, and business operations.
