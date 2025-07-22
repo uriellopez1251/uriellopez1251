@@ -10,12 +10,11 @@ Before diving into analytics, I worked in finance, operations, and e-commerce �
 
 | Tool        | Project                                                                 | Focus                                                                 |
 |-------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| **SQL**     | [Rideshare Behavior Analysis](#)                                        | Analyzed ride trends and customer segments for a LA-based startup     |
-| **Excel**   | [Airbnb Investment Strategy](#)                                         | Evaluated Manhattan rental data to guide property investments         |
-| **Power BI**| [Shopify App Market Analysis](#)                                        | Explored trends and success factors using scraped Shopify data        |
-| **Tableau** | [Superstore Profitability Dashboard](https://github.com/uriellopez1251/Superstore-return-analysis) | Improved operations and customer experience at a retail chain         |
-| **Funnels** | [E-Commerce Funnel Analysis](#)                                         | Tracked user behavior, purchase retention, and acquisition trends     |
-| **Storytelling** | [Customer Return Behavior](#)                                     | Helped retail execs understand high return rates and solutions        |
+| **SQL**     | [E-Commerce Funnel & Retention Analysis](https://github.com/uriellopez1251/ecommerce-funnel-retention-sql) | Tracked funnel performance and analyzed user retention behavior       |
+| **Excel**   | [Airbnb Investment Strategy](https://github.com/uriellopez1251/airbnb-investment-excel) | Evaluated NYC rental data to guide property investment decisions     |
+| **Power BI**| [Shopify App Market Analysis](https://github.com/uriellopez1251/shopify-app-powerbi) | Analyzed Shopify app listings and developer insights                 |
+| **Tableau** | [Superstore Profitability Dashboard](https://github.com/uriellopez1251/Superstore-return-analysis) | Built executive dashboards to highlight profitability trends          |
+| **Storytelling** | [Customer Return Behavior](https://github.com/uriellopez1251/superstore-return-tableau) | Helped stakeholders understand root causes and reduce return rates    |
 
 ---
 
@@ -60,7 +59,15 @@ These experiences shaped how I analyze and interpret business data — always wi
 
 - 📍 Based in California, open to remote/hybrid roles  
 - 📧 [uriellopez1251@gmail.com](mailto:uriellopez1251@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/uriellopez1251/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/uriellopez1251/)  
+- 🐙 [GitHub](https://github.com/uriellopez1251)
+
+---
+
+## 🎸 Fun Fact
+
+I'm a proud Star Wars fan and a dog dad to two pups named Obi and Chewy. When I’m not diving into data or creating dashboards, I enjoy playing guitar, exploring new cultures, and going on outdoor adventures with my family.
+
 
 > Currently open to BI Analyst and Data Analyst roles — especially in marketing, e-commerce, tech, and business operations.
 
