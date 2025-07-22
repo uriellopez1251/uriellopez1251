@@ -67,16 +67,6 @@ These experiences shaped how I analyze and interpret business data — always wi
 
 ---
 
-## 🎸 Fun Fact
-
-I'm a huge Star Wars fan, a dog lover with two pups named Obi and Chewy, and I enjoy hiking, running, and playing guitar during my downtime.
-
-
-
-> Currently open to BI Analyst and Data Analyst roles — especially in marketing, e-commerce, tech, and business operations.
-
----
-
 ## 🎵 Fun Fact
 
 Outside of work, I’m a music lover, runner, and Star Wars fan. I enjoy spending time outdoors with my family, going on hikes, and hanging out with my two dogs — Obi and Chewy (yes, named after *those* guys). When I’m not analyzing data, you’ll probably catch me enjoying time with my son or discovering new sounds on guitar.
